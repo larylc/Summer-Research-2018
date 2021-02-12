@@ -1,3 +1,3 @@
 # Independent Research Project 2018
 
-Some Description!
+This was a summer research project I did while working as a summer research assistant. 

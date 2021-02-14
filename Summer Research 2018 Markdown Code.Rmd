@@ -6,6 +6,7 @@ output:
   rmdformats::downcute:
     code_folding: hide
     df_print: paged
+    keep_md: true
 
 ---
 <center>
@@ -292,7 +293,7 @@ plot(mod4.female_effects, "uni.brs",xlab="Unique Brackets", ylab="Strength",main
 
 + The presence of females within a social network seems to strongly influence the relationship between movement and centrality metrics. While male-male social interactions are always affected by movement, in joint (two sex) and female-only networks the relationship between movement and centrality is not always significant. 
 
-+Joint networks and female-only network appear to mimic each other. 
++ Joint networks and female-only network appear to mimic each other. 
 
 + See poster for more complete conclusions.
 

@@ -6,9 +6,15 @@ output:
   rmdformats::downcute:
     code_folding: hide
     df_print: paged
-    keep_md: true
 
 ---
+
+
+```{r setup, include = FALSE}
+knitr::output$set(echo = TRUE)
+```
+
+
 <center>
 ![Mountain Lake Biological Station, 6/8/2018.](C:\Users\laryl\Downloads\IMG-0048.jpg){#id .class width=50% height=50%}
 </center>

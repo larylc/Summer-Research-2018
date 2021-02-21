@@ -3,7 +3,11 @@
 Under construction...
 
 ## Project 
-See the rendered r markdown project here: https://larylc.github.io/Independent-Projects-/Summer-Research-2018-Markdown.html
+
++ [Rendered R Markdown Project](https://larylc.github.io/Independent-Projects-/Summer-Research-2018-Markdown.html)
+
++ [Poster](https://github.com/larylc/Summer-Research-2018/blob/main/Sigma%20Xi%20Research%20Poster%20Summer%202018%20Cedric%20Lary-%20Ultra.pdf)
+
 
 # Intro
 I was a research assistant at Mountain Lake Biological Station under the supervision of Dr. Vincent Formica. The goals for the summer were to assist Dr. Formica and his colleagues in the collection of Forked Fungus Beetle social network data and to develop and execute an independent beetle social network research project. 

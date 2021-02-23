@@ -1,4 +1,4 @@
-# Summer-Research-2018
+# Summer Research 2018
 
 Under construction...
 

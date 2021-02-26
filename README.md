@@ -25,10 +25,9 @@ We found that movement only predicted betweenness in male-only social networks i
 
 ## Contact Me
 
-|**Conntact Method** |                    |
+|**Contact Method**  |                    |
 | -------------------| ------------------ |
 | Professional Email | clary1@gmail.com   |
-|--------------------|--------------------|
 | LinkedIn           |                    |
 
 

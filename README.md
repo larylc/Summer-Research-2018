@@ -21,3 +21,14 @@ Forked Fungus Beetles (Bolitotherus cornutus) are social insects that spend the 
 
  ## Findings 
 We found that movement only predicted betweenness in male-only social networks in contrast to joint and female-only social networks. In our strength analysis, we found that beetle movement predicted strength in all three of our social network models. These results showed that although strength and betweenness are highly correlated, they vary across sex-specified networks. Our results also showed that as male beetles, in particular, are moving from fungal bracket to fungal bracket, they are meeting with new beetles and strengthening their interactions with other beetles while also connecting otherwise separate parts of their social networks together. 
+
+
+## Contact Me
+
+|**Conntact Method** |                    |
+| -------------------| ------------------ |
+| Professional Email | clary1@gmail.com   |
+|--------------------|--------------------|
+| LinkedIn           |                    |
+
+

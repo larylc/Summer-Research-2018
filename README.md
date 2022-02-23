@@ -1,7 +1,5 @@
 # Summer Research 2018
 
-Under construction...
-
 ## Project 
 
 + [Rendered R Markdown Project](https://larylc.github.io/Independent-Projects-/Summer-Research-2018-Markdown.html)
